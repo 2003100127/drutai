@@ -63,7 +63,7 @@ Two example files in Drutai are 148124.txt and A0A0H2UXE9.fasta for a small mole
 
 * #### Docetaxel (small molecule CID: 148124)
 
-![estradiol](https://github.com/2003100127/drutai/blob/main/img/Docetaxel.png?raw=true)
+![docetaxel](https://github.com/2003100127/drutai/blob/main/img/Docetaxel.png?raw=true)
 ```shell
 # 148124.txt
 CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
