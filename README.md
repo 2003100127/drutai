@@ -6,7 +6,7 @@
 ###### tags: `protein` `drugs` `interaction`
 
 ## Overview
-This repository is a standalone package of the Drutai method. Drutai is used to predict interactions between small molecule drugs and protein targets. This method is powered by 9 deep learning models.
+This repository is a standalone package of the Drutai method. Drutai is used to predict interactions between small molecule drugs and protein targets. This program has been made by using 12 leading deep learning frameworks.
 
 ## Installation
 * ### PyPI
