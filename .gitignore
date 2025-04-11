@@ -2,7 +2,6 @@
 data/
 drutai/convert.py
 docs
-README.md
 .idea/
 
 # Byte-compiled / optimized / DLL files
