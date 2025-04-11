@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/2003100127/drutai/blob/main/docs/img/drutai-logo.png?raw=true" width="200" height="73">
+    <img src="https://github.com/2003100127/drutai/blob/main/docs/img/drutai-logo.png?raw=true" width="200" height="85">
     <br>
 </h1>
 
